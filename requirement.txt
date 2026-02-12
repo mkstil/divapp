@@ -2,4 +2,3 @@ flask
 flask-cors
 pyodbc 
 gunicorn
-waitress
